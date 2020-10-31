@@ -1,8 +1,10 @@
+import React from 'react';
+import Scoreboard from './components/scoreboard/Scoreboard';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      <h1>Scoreboard</h1>
+      <Scoreboard />
     </div>
   );
 }
