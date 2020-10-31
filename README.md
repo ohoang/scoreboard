@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# Getting Started with Self rebalancing Leaderboard
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can start by running:
+
+### `yarn install`
+
+yarn install is used to install all dependencies for a project.
+The dependencies are retrieved from the project’s package.json file, and stored in the yarn.lock file.
 
 ### `yarn start`
 
